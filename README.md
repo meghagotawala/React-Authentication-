@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 React Authentication & Dashboard Implementation
 
 1. Overview
