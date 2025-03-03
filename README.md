@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 React Authentication & Dashboard Implementation
 
 1. Overview
@@ -144,3 +145,6 @@ Enforces constraints on username, password, and role selection.
 
 This application provides a basic role-based authentication system with form validation, localStorage-based user management, and student record CRUD operations.
 
+=======
+# React-Authentication-
+>>>>>>> 7a0ca74b478e555de5fa6dae903056ad8b9925ca
